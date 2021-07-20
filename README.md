@@ -1,3 +1,3 @@
 # PYTHON
 
-## Diccionarios
+## Manejo de archivos JSON, módulos y diccionarios
